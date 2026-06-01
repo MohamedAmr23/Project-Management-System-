@@ -216,8 +216,8 @@ Routes are protected by a `ProtectedRoute` wrapper that reads the user context a
 
 ## 📸 Screenshots
 <img width="1920" height="893" alt="Capture" src="https://github.com/user-attachments/assets/d5a343c2-1fd8-4487-90ea-639214acb0ee" />
-<img width="1920" height="893" alt="image" src="https://github.com/user-attachments/assets/3fdd2340-4d5d-40a5-9bb0-84be1b34696d" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/829a83ca-ccad-462e-aee2-8076e805f576" />
+<img width="1903" height="963" alt="image" src="https://github.com/user-attachments/assets/f57118a5-cdd1-4998-a06f-e569002b96cd" />
+
 
 | Page | Description |
 |---|---|
