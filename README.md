@@ -229,7 +229,7 @@ Routes are protected by a `ProtectedRoute` wrapper that reads the user context a
 | **Task Board** | Kanban columns: To Do / In Progress / Done |
 | **Dark Mode** | Full dark theme across all pages |
 
-> 📍 Live preview: [project-management-system-lake-nine.vercel.app](https://project-management-system-lake-nine.vercel.app/)
+> 📍 Live preview: [project-management-system-lake-nine.vercel.app](https://project-management-system-indol-eight.vercel.app/)
 
 ---
 
